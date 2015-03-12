@@ -1,0 +1,25 @@
+DEncode1.1更新说明
+	2012.5.28
+1、增加了LM、NT、LM/NThash加密方式。
+2、增加了原来漏掉的HTML解码功能。
+3、增加了字符替换功能。
+
+DEncode1.0更新说明
+	2011.12.15
+1、初次开发，主要针对字符常用的一些编解码功能，支持的种类有：
+URL
+HTML
+Ascii
+Ascii:Xss
+Ascii:Oracle
+Ascii:Mysql
+Ascii:Mssql
+Escape
+Hex:Ascii
+Hex:Ascii:Xss
+Hex:Unicode
+Hex:Ascii:Sql
+Hex:Unicode:Sql
+MD5:16
+MD5:32
+Base64
